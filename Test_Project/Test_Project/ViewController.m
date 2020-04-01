@@ -21,6 +21,8 @@
     NSLog(@"初始化工程");
     
     NSLog(@"test 1");
+    
+    NSLog(@"test 2");
 }
 
 
