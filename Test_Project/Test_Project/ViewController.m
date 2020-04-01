@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view.
     
     NSLog(@"初始化工程");
+    
+    NSLog(@"test 1");
 }
 
 
